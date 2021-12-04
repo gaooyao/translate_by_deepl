@@ -1,0 +1,28 @@
+{
+  "EEG_based_Emotion_Recognition_via_Channel-wise_Attention_and_Self_Attention.pdf": {
+    "dir": "files\\EEG_based_Emotion_Recognition_via_Channel-wise_Attention_and_Self_Attention",
+    "status": "dl",
+    "auth_key": "091d00c6-26b4-aa21-cacb-438a529bbb1e:fx",
+    "sub_file": [
+      {
+        "path": "files\\EEG_based_Emotion_Recognition_via_Channel-wise_Attention_and_Self_Attention\\0.pdf",
+        "status": "ok",
+        "id": "0F49F1DD1066626494CA4DD92C99F192",
+        "key": "C1ABAA2B231C87021D6DA03139A37809621622C265F4E750CEF5F5C8A91327B0"
+      }
+    ]
+  },
+  "EEG Channel Correlation Based Model for Emotion Recognition.pdf": {
+    "dir": "files\\EEG Channel Correlation Based Model for Emotion Recognition",
+    "status": "dl",
+    "auth_key": "091d00c6-26b4-aa21-cacb-438a529bbb1e:fx",
+    "sub_file": [
+      {
+        "path": "files\\EEG Channel Correlation Based Model for Emotion Recognition\\0.pdf",
+        "status": "dl",
+        "id": "06F5B83617C1C9B4039F623946E94672",
+        "key": "C260CA2C8B75D4FA9A086364EB0A8AD47BF22DAF9B3DFB168A59580A3EFE2466"
+      }
+    ]
+  }
+}
